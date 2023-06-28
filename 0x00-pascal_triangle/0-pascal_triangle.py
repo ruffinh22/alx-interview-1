@@ -3,7 +3,6 @@
     0-pascal_triangle.py: pascal_triangle()
 """
 
-
 def pascal_triangle(n):
     """
         returns a lis of lists of integers
